@@ -23,4 +23,4 @@ Run the generated binary to execute the automated tests:
 ```
 
 ## Results
-The implementation correctly handles matrices of varying sparsity, consistently passing all 100 test iterations with high numerical precision.
+The implementation correctly handles matrices of varying sparsity, consistently passing all 100 test iterations with high numerical precision. 
